@@ -1,1 +1,1 @@
-Start coding with C today
+0x07. C - Even more pointers, arrays and strings

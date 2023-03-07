@@ -1,14 +1,13 @@
-#include <main.h>
-#include <stdio.h>
+#include "main.h"
 /**
- * main - Entry point
- * Description: 'prints _putchar' to stdout
- * Return: Alway 0 (success)
+ * main - print _putchar
+ * is writted by mbah
+ * Return 0
  */
 
 int main(void)
 {
-	_putchar('-');
+	_putchar('_');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
